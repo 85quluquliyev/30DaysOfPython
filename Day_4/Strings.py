@@ -139,8 +139,10 @@ result = 'The area with radius: {} is {}.'.format(str(radius), str(area))
 print(result)
 """
 
+"""
 text = 'abcdefcgh'
 print(text.rindex('b'))
+"""
 
 
 
