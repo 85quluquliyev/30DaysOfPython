@@ -39,7 +39,7 @@ from math import pi as uc
 print(uc)  
 
 """
-"""
+
 import string
 print(string.ascii_letters)
 print(string.digits)
@@ -50,7 +50,7 @@ print(string.ascii_lowercase)
 print(string.ascii_uppercase)
 print(string.hexdigits)
 print(string.octdigits)
-"""
+
 """
 from random import random, randint
 print(random())
